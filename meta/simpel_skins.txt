@@ -1,0 +1,2 @@
+Name = "inventory_plus_skins",
+Author = "Minetestskins"
